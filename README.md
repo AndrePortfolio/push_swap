@@ -2,6 +2,8 @@
 
 Push_swap is a 42 school project that challenges students to implement a sorting algorithm using a constrained set of stack operations. The goal is to sort a list of integers in ascending order using two stacks (`a` and `b`) while minimizing the number of operations.
 
+![image](https://github.com/AndrePortfolio/push_swap/blob/main/push_swap.png)
+
 ## Project Overview
 
 The project requires writing a program, `push_swap`, which:
